@@ -171,9 +171,7 @@ td, th{
     color: #1D3557;
 }
 
-iframe{
-	postion:absolute;
-	margin-left: auto;
-	margin-right: auto;
-
-} 
+#videos{
+	width: 100%;
+	text-align: center;
+}
